@@ -6,6 +6,14 @@
 = Ofrecen respuestas más personalizadas y contextualizadas. # Correcto. La IA adapta la información al usuario.
 ~ Nunca cometen errores. # Incorrecto. Pueden equivocarse.
 }
+::Pregunta4::
+¿Cuál es una ventaja de los motores tradicionales frente a la IA?
+{
+= Permiten acceder directamente a múltiples fuentes y páginas. # Correcto.
+~ Siempre ofrecen resúmenes personalizados. # Incorrecto. Eso lo hace la IA.
+~ No requieren palabras clave. # Incorrecto. Sí las requieren.
+~ Garantizan que toda la información sea verdadera. # Incorrecto.
+}
 
 ::Pregunta2::
 ¿Qué desventaja puede tener una herramienta de búsqueda con IA?
