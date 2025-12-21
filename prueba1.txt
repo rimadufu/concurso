@@ -1,0 +1,26 @@
+::Pregunta1::
+¿Cuál es una ventaja de las herramientas de búsqueda con IA?
+{
+~ Siempre muestran resultados oficiales. # Incorrecto. No garantizan solo fuentes oficiales.
+~ No necesitan internet. # Incorrecto. Sí requieren conexión.
+= Ofrecen respuestas más personalizadas y contextualizadas. # Correcto. La IA adapta la información al usuario.
+~ Nunca cometen errores. # Incorrecto. Pueden equivocarse.
+}
+
+::Pregunta2::
+¿Qué desventaja puede tener una herramienta de búsqueda con IA?
+{
+= Puede generar información incorrecta o inventada. # Correcto. A veces la IA "alucina".
+~ Siempre tarda más que un buscador tradicional. # Incorrecto. No necesariamente.
+~ No permite preguntas en lenguaje natural. # Incorrecto. Esa es una ventaja.
+~ No se puede usar en móviles. # Incorrecto. Sí se puede.
+}
+
+::Pregunta3::
+¿Cuál es una diferencia clave entre un motor tradicional y uno con IA?
+{
+~ Los motores tradicionales responden con texto conversacional. # Incorrecto. Eso lo hace la IA.
+= Los motores tradicionales muestran enlaces, la IA sintetiza respuestas. # Correcto.
+~ La IA nunca usa fuentes externas. # Incorrecto. Sí las usa.
+~ Los motores tradicionales verifican la veracidad. # Incorrecto. Solo muestran resultados.
+}
